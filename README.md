@@ -64,6 +64,6 @@ UIKit Enthusiast • iOS Developer 💚
 
 🖼️ App Preview Run the project on simulator or device.
 <p align="center">
-  <img src="ScreenShot/demo_app.png" width="300" />
+  <img src="ScreenShot/demo_app.PNG" width="300" />
 </p>
 
